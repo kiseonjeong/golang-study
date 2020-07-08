@@ -1,0 +1,1 @@
+https://gosudaweb.gitbooks.io/effective-go-in-korean/
