@@ -1,10 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"../test/seq"
+)
 
 func main() {
-	for i, r := range "가나다" {
-		fmt.Println(i, r)
-	}
-	fmt.Println(len("가나다"))
+	fmt.Println(seq.Fib(6))
 }
