@@ -1,2 +1,2 @@
-# golang test
- test repository for golang
+# golang study
+ study repository for golang
